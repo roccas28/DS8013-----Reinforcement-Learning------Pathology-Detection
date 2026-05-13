@@ -1,0 +1,12 @@
+Image_Path,Actual_Label,Predicted_Label,X,Y
+./data/CheXpert-v1.0-small/valid/patient64541/study1/view1_frontal.jpg,0,-1,112,112
+./data/CheXpert-v1.0-small/valid/patient64541/study1/view1_frontal.jpg,0,-1,112,112
+./data/CheXpert-v1.0-small/valid/patient64541/study1/view1_frontal.jpg,0,-1,112,112
+./data/CheXpert-v1.0-small/valid/patient64541/study1/view1_frontal.jpg,0,-1,112,112
+./data/CheXpert-v1.0-small/valid/patient64541/study1/view1_frontal.jpg,0,-1,112,112
+./data/CheXpert-v1.0-small/valid/patient64541/study1/view1_frontal.jpg,0,-1,112,112
+./data/CheXpert-v1.0-small/valid/patient64541/study1/view1_frontal.jpg,0,-1,112,112
+./data/CheXpert-v1.0-small/valid/patient64541/study1/view1_frontal.jpg,0,-1,112,112
+./data/CheXpert-v1.0-small/valid/patient64541/study1/view1_frontal.jpg,0,-1,112,112
+./data/CheXpert-v1.0-small/valid/patient64541/study1/view1_frontal.jpg,0,-1,112,112
+./data/CheXpert-v1.0-small/valid/patient64541/study1/view1_frontal.jpg,0,-1,112,112
